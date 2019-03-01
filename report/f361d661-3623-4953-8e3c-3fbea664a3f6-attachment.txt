@@ -1,0 +1,2 @@
+['By.ID', 'sg.bigo.live:id/rl_login_3', 'click']
+('id', 'sg.bigo.live:id/rl_login_3')

@@ -1,0 +1,39 @@
+#login_button:
+#  - By.ID
+#  - sg.bigo.live:id/rl_login_3
+#  - click
+#
+#phone_button:
+#   - By.ID
+#   - sg.bigo.live:id/et_phone_num
+#   - 15889950702
+#   - send_keys
+#
+#
+#phone_login_button:
+#  - By.ID
+#  - sg.bigo.live:id/tv_next
+#  - click
+
+-
+    - By.ID
+    - sg.bigo.live:id/rl_login_3
+    - click
+-
+   - By.ID
+   - sg.bigo.live:id/et_phone_num
+   - 15889950702
+   - send_keys
+-
+   - By.ID
+   - sg.bigo.live:id/tv_next
+   - click
+-
+   - By.ID
+   - sg.bigo.live:id/et_password
+   - zmy630702
+   - send_keys
+-
+   - By.ID
+   - sg.bigo.live:id/tv_next
+   - click

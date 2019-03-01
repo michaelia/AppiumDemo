@@ -1,0 +1,1 @@
+['By.ID', 'sg.bigo.live:id/et_phone_num', 15889950702, 'send_keys']

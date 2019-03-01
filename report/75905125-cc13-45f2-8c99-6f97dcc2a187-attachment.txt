@@ -1,0 +1,3 @@
+[2019-03-01 12:25:29.789337] [INFO] [Element.py] [find_element] [19] ('id', 'sg.bigo.live:id/et_password')的元素已经找到了
+[2019-03-01 12:25:30.954483] [INFO] [Element.py] [find_element] [19] ('id', 'sg.bigo.live:id/et_password')的元素已经找到了
+[2019-03-01 12:25:31.843959] [INFO] [Element.py] [find_element] [19] ('id', 'sg.bigo.live:id/et_password')的元素已经找到了

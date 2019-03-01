@@ -1,0 +1,119 @@
+{
+  "uid" : "673c35d73ef273b7",
+  "name" : "test_Login[getData4]",
+  "fullName" : "test_login.TestClass#test_Login[getData4]",
+  "historyId" : "cebb66482b99757099b05f500adfdd7a",
+  "time" : {
+    "start" : 1551414354134,
+    "stop" : 1551414374140,
+    "duration" : 20006
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "getData",
+    "time" : {
+      "start" : 1551414352829,
+      "stop" : 1551414354133,
+      "duration" : 1304
+    },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "登录",
+      "time" : {
+        "start" : 1551414352829,
+        "stop" : 1551414354133,
+        "duration" : 1304
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "request",
+        "value" : "<SubRequest 'getData' for <Function test_Login[getData4]>>"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6fa75d9fb8e887c5",
+      "name" : "log",
+      "source" : "6fa75d9fb8e887c5.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "41d811722d6dd614",
+      "name" : "stdout",
+      "source" : "41d811722d6dd614.txt",
+      "type" : "text/plain",
+      "size" : 80
+    }, {
+      "uid" : "5512bc8cd26775f7",
+      "name" : "stderr",
+      "source" : "5512bc8cd26775f7.txt",
+      "type" : "text/plain",
+      "size" : 386
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "feature1"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "shuusatoshis-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "9662-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "getData",
+    "value" : "['By.ID', 'sg.bigo.live:id/tv_next', 'click']"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "673c35d73ef273b7.json",
+  "parameterValues" : [ "['By.ID', 'sg.bigo.live:id/tv_next', 'click']" ]
+}

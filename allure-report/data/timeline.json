@@ -1,0 +1,73 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "shuusatoshis-MacBook-Pro.local",
+    "children" : [ {
+      "name" : "9662-MainThread",
+      "children" : [ {
+        "name" : "test_Login[getData2]",
+        "uid" : "9f73858a23a225b9",
+        "parentUid" : "4c0e45f11cc11b580d1267353c13b229",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551414308969,
+          "stop" : 1551414328973,
+          "duration" : 20004
+        },
+        "flaky" : false,
+        "parameters" : [ "['By.ID', 'sg.bigo.live:id/tv_next', 'click']" ]
+      }, {
+        "name" : "test_Login[getData4]",
+        "uid" : "673c35d73ef273b7",
+        "parentUid" : "4c0e45f11cc11b580d1267353c13b229",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551414354134,
+          "stop" : 1551414374140,
+          "duration" : 20006
+        },
+        "flaky" : false,
+        "parameters" : [ "['By.ID', 'sg.bigo.live:id/tv_next', 'click']" ]
+      }, {
+        "name" : "test_Login[getData1]",
+        "uid" : "e9711f6133096135",
+        "parentUid" : "4c0e45f11cc11b580d1267353c13b229",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551414287652,
+          "stop" : 1551414307660,
+          "duration" : 20008
+        },
+        "flaky" : false,
+        "parameters" : [ "['By.ID', 'sg.bigo.live:id/et_phone_num', 15889950702, 'send_keys']" ]
+      }, {
+        "name" : "test_Login[getData0]",
+        "uid" : "707b4fca4ed120bc",
+        "parentUid" : "4c0e45f11cc11b580d1267353c13b229",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551414264377,
+          "stop" : 1551414284384,
+          "duration" : 20007
+        },
+        "flaky" : false,
+        "parameters" : [ "['By.ID', 'sg.bigo.live:id/rl_login_3', 'click']" ]
+      }, {
+        "name" : "test_Login[getData3]",
+        "uid" : "1bb00ce9d43b4697",
+        "parentUid" : "4c0e45f11cc11b580d1267353c13b229",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551414332815,
+          "stop" : 1551414352825,
+          "duration" : 20010
+        },
+        "flaky" : false,
+        "parameters" : [ "['By.ID', 'sg.bigo.live:id/et_password', 'zmy630702', 'send_keys']" ]
+      } ],
+      "uid" : "4c0e45f11cc11b580d1267353c13b229"
+    } ],
+    "uid" : "2a28873624af5035743371090b7381bb"
+  } ]
+}

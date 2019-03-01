@@ -1,0 +1,54 @@
+[2019-02-28 11:01:43.155930] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/rl_login_3')的元素已经找到了
+[2019-02-28 11:01:43.463475] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/rl_login_3')的元素已经找到了
+[2019-02-28 11:01:43.700485] [INFO] [Element.py] [clickButton] [45] ('id', 'sg.bigo.live:id/rl_login_3')的元素在操作点击操作
+[2019-02-28 11:01:45.579881] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/et_phone_num')的元素已经找到了
+[2019-02-28 11:01:46.278264] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/et_phone_num')的元素已经找到了
+[2019-02-28 11:01:47.024314] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/et_phone_num')的元素已经找到了
+[2019-02-28 17:18:25.727213] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/rl_login_3')的元素已经找到了
+[2019-02-28 17:18:26.518600] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/rl_login_3')的元素已经找到了
+[2019-02-28 17:18:26.719978] [INFO] [Element.py] [clickButton] [45] ('id', 'sg.bigo.live:id/rl_login_3')的元素在操作点击操作
+[2019-02-28 17:18:28.604417] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/et_phone_num')的元素已经找到了
+[2019-02-28 17:18:29.692250] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/et_phone_num')的元素已经找到了
+[2019-02-28 17:18:30.533709] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/et_phone_num')的元素已经找到了
+[2019-02-28 17:24:07.091595] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/rl_login_3')的元素已经找到了
+[2019-02-28 17:24:07.393299] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/rl_login_3')的元素已经找到了
+[2019-02-28 17:24:07.566138] [INFO] [Element.py] [clickButton] [45] ('id', 'sg.bigo.live:id/rl_login_3')的元素在操作点击操作
+[2019-02-28 17:24:09.114828] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/et_phone_num')的元素已经找到了
+[2019-02-28 17:24:09.759032] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/et_phone_num')的元素已经找到了
+[2019-02-28 17:24:10.894609] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/et_phone_num')的元素已经找到了
+[2019-02-28 22:50:11.593750] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/rl_login_3')的元素已经找到了
+[2019-02-28 22:50:11.890828] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/rl_login_3')的元素已经找到了
+[2019-02-28 22:50:12.092124] [INFO] [Element.py] [clickButton] [45] ('id', 'sg.bigo.live:id/rl_login_3')的元素在操作点击操作
+[2019-02-28 22:50:14.076942] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/et_phone_num')的元素已经找到了
+[2019-02-28 22:50:14.736406] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/et_phone_num')的元素已经找到了
+[2019-02-28 22:50:15.480676] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/et_phone_num')的元素已经找到了
+[2019-02-28 22:50:16.980755] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/tv_next')的元素已经找到了
+[2019-02-28 22:50:17.348649] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/tv_next')的元素已经找到了
+[2019-02-28 22:50:18.066646] [INFO] [Element.py] [clickButton] [45] ('id', 'sg.bigo.live:id/tv_next')的元素在操作点击操作
+[2019-02-28 23:16:33.907975] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/rl_login_3')的元素已经找到了
+[2019-02-28 23:16:34.076395] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/rl_login_3')的元素已经找到了
+[2019-02-28 23:16:34.172488] [INFO] [Element.py] [clickButton] [45] ('id', 'sg.bigo.live:id/rl_login_3')的元素在操作点击操作
+[2019-02-28 23:16:54.422013] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/et_phone_num')的元素已经找到了
+[2019-02-28 23:16:55.726979] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/et_phone_num')的元素已经找到了
+[2019-02-28 23:16:56.685908] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/et_phone_num')的元素已经找到了
+[2019-02-28 23:17:17.719769] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/tv_next')的元素已经找到了
+[2019-02-28 23:17:18.496214] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/tv_next')的元素已经找到了
+[2019-02-28 23:17:18.728565] [INFO] [Element.py] [clickButton] [45] ('id', 'sg.bigo.live:id/tv_next')的元素在操作点击操作
+[2019-02-28 23:22:06.566058] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/rl_login_3')的元素已经找到了
+[2019-02-28 23:22:06.724634] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/rl_login_3')的元素已经找到了
+[2019-02-28 23:22:06.820659] [INFO] [Element.py] [clickButton] [45] ('id', 'sg.bigo.live:id/rl_login_3')的元素在操作点击操作
+[2019-02-28 23:22:27.063428] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/et_phone_num')的元素已经找到了
+[2019-02-28 23:22:28.813817] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/et_phone_num')的元素已经找到了
+[2019-02-28 23:22:29.735420] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/et_phone_num')的元素已经找到了
+[2019-02-28 23:22:50.841089] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/tv_next')的元素已经找到了
+[2019-02-28 23:22:51.214730] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/tv_next')的元素已经找到了
+[2019-02-28 23:22:51.429134] [INFO] [Element.py] [clickButton] [45] ('id', 'sg.bigo.live:id/tv_next')的元素在操作点击操作
+[2019-02-28 23:23:11.650057] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/et_phone_num')的元素已经找到了
+[2019-02-28 23:23:12.929373] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/et_phone_num')的元素已经找到了
+[2019-02-28 23:23:14.003858] [INFO] [Element.py] [find_element] [21] ('id', 'sg.bigo.live:id/et_phone_num')的元素已经找到了
+[2019-02-28 23:23:34.909462] [INFO] [Element.py] [find_element] [24] <common.Element.Element object at 0x1100a8c50> 页面中未能找到 ('id', 'sg.bigo.live:id/tv_next') 元素
+[2019-02-28 23:23:34.911586] [INFO] [Element.py] [find_element] [24] <common.Element.Element object at 0x1100a8c50> 页面中未能找到 ('id', 'sg.bigo.live:id/tv_next') 元素
+[2019-02-28 23:23:54.924398] [INFO] [Element.py] [find_element] [24] <common.Element.Element object at 0x1100f3d68> 页面中未能找到 ('id', 'sg.bigo.live:id/et_password') 元素
+[2019-02-28 23:23:54.925864] [INFO] [Element.py] [send_keys] [35] <common.Element.Element object at 0x1100f3d68> 页面未能找到 ('id', 'sg.bigo.live:id/et_password') 元素
+[2019-02-28 23:24:14.937169] [INFO] [Element.py] [find_element] [24] <common.Element.Element object at 0x110106940> 页面中未能找到 ('id', 'sg.bigo.live:id/tv_next') 元素
+[2019-02-28 23:24:14.939662] [INFO] [Element.py] [find_element] [24] <common.Element.Element object at 0x110106940> 页面中未能找到 ('id', 'sg.bigo.live:id/tv_next') 元素

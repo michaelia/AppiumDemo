@@ -1,0 +1,19 @@
+zmyiPhone:
+
+        bundleId: sg.bigo.live.alpha
+        platformName: iOS
+        platformVersion: 9.3.4
+        deviceName: zmy'&iPhoner
+        udid: 1334cfe6f662ae2b42bae671fae8237be1908b1d
+        automationName: XCUITest
+        unicodeKeyboard: True
+        resetKeyboard: True
+
+18a2b9c8:
+        automationName: uiautomator2
+        platformName: ANDROID
+        deviceName: 18a2b9c8
+        appPackage: sg.bigo.live
+        appActivity: com.yy.iheima.MainActivity
+        unicodeKeyboard: True
+        resetKeyboard: True

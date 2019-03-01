@@ -1,0 +1,3 @@
+[2019-03-01 12:25:07.876101] [INFO] [Element.py] [find_element] [19] ('id', 'sg.bigo.live:id/tv_next')的元素已经找到了
+[2019-03-01 12:25:08.762779] [INFO] [Element.py] [find_element] [19] ('id', 'sg.bigo.live:id/tv_next')的元素已经找到了
+[2019-03-01 12:25:08.967918] [INFO] [Element.py] [clickButton] [43] ('id', 'sg.bigo.live:id/tv_next')的元素在操作点击操作

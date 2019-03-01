@@ -1,0 +1,4 @@
+[2019-02-27 16:25:39.156378] [INFO] [test_looger.py] [<module>] [30] xxx
+[2019-02-27 16:27:55.140169] [INFO] [test_looger.py] [test1] [27] 2
+[2019-02-27 16:29:53.246176] [INFO] [test_looger.py] [test1] [27] 2
+[2019-02-27 16:30:05.478954] [INFO] [test_looger.py] [test1] [27] 2

@@ -1,0 +1,1 @@
+['By.ID', 'sg.bigo.live:id/et_password', 'zmy630702', 'send_keys']

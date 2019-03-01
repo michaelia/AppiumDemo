@@ -1,0 +1,4 @@
+[console_scripts]
+ptest-3.7 = ptest.main:main
+ptest3 = ptest.main:main
+
